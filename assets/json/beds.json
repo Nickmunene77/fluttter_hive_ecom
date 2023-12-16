@@ -1,0 +1,108 @@
+[
+  {
+    "id": "0",
+    "name": "Beds mahogany",
+    "category": "Beds",
+    "imageUrl": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3YjIDkZzkcPErKjvNyqYQ9zfAc_AwNIKB1OB58xi&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3YjIDkZzkcPErKjvNyqYQ9zfAc_AwNIKB1OB58xi&s"
+    ],
+    "oldPrice": "70.89",
+    "sizes": [
+      { "size": "3*4", "isSelected": false },
+      { "size": "4*4", "isSelected": false },
+      { "size": "5*4", "isSelected": false },
+      { "size": "5*5", "isSelected": false },
+      { "size": "5*6", "isSelected": false },
+      { "size": "6*6", "isSelected": false }
+    ],
+    "price": "60.00",
+    "description": "innnnn nnnn nnnn nn",
+    "title": "ddbdbbdd ddbbd bbdbd"
+  },
+  {
+    "id": "1",
+    "name": "Elegant Bed",
+    "category": "Beds",
+    "imageUrl": [
+      "https://images.ctfassets.net/q5lwz1whkyct/4JZn8gQ6mp9wtQLQ20978H/851d419314f4a270ab0fe94de05e05c4/45-french-bed.jpg",
+      "https://example.com/bed2.jpg"
+    ],
+    "oldPrice": "99.99",
+    "sizes": [
+      { "size": "3*4", "isSelected": false },
+      { "size": "4*4", "isSelected": false },
+      { "size": "5*4", "isSelected": false },
+      { "size": "5*5", "isSelected": false },
+      { "size": "5*6", "isSelected": false },
+      { "size": "6*6", "isSelected": false }
+    ],
+    "price": "89.99",
+    "description": "A luxurious bed for a comfortable sleep experience.",
+    "title": "Luxury Bed"
+  },
+  {
+    "id": "2",
+    "name": "Magic Bed",
+    "category": "Beds",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0044/1208/0217/files/MARTHURDBWOSTRWEN-1_900x.jpg?v=1688465796",
+      "https://example.com/bed2.jpg"
+    ],
+    "oldPrice": "99.99",
+    "sizes": [
+      { "size": "3*4", "isSelected": false },
+      { "size": "4*4", "isSelected": false },
+      { "size": "5*4", "isSelected": false },
+      { "size": "5*5", "isSelected": false },
+      { "size": "5*6", "isSelected": false },
+      { "size": "6*6", "isSelected": false }
+    ],
+    "price": "89.99",
+    "description": "A luxurious bed for a comfortable sleep experience.",
+    "title": "Luxury Bed"
+  },
+
+  {
+    "id": "3",
+    "name": "Elegant Bed",
+    "category": "Beds",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0044/1208/0217/files/MARTHURDBWOSTRWEN-1_900x.jpg?v=1688465796",
+      "https://example.com/bed2.jpg"
+    ],
+    "oldPrice": "99.99",
+    "sizes": [
+      { "size": "3*4", "isSelected": false },
+      { "size": "4*4", "isSelected": false },
+      { "size": "5*4", "isSelected": false },
+      { "size": "5*5", "isSelected": false },
+      { "size": "5*6", "isSelected": false },
+      { "size": "6*6", "isSelected": false }
+    ],
+    "price": "89.99",
+    "description": "A luxurious bed for a comfortable sleep experience.",
+    "title": "Luxury Bed"
+  },
+  {
+    "id": "4",
+    "name": "Elegant Bed",
+    "category": "Beds",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0044/1208/0217/files/MARTHURDBWOSTRWEN-1_900x.jpg?v=1688465796g",
+      "https://example.com/bed2.jpg"
+    ],
+    "oldPrice": "99.99",
+    "sizes": [
+      { "size": "3*4", "isSelected": false },
+      { "size": "4*4", "isSelected": false },
+      { "size": "5*4", "isSelected": false },
+      { "size": "5*5", "isSelected": false },
+      { "size": "5*6", "isSelected": false },
+      { "size": "6*6", "isSelected": false }
+    ],
+    "price": "89.99",
+    "description": "A luxurious bed for a comfortable sleep experience.",
+    "title": "Luxury Bed"
+  }
+]
